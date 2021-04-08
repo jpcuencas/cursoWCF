@@ -1,0 +1,9 @@
+D:\Master\DAD\Sesion2\EjercicioAlumnoWCF\ImplementacionServicioAlumnoWCF\bin\Debug\ImplementacionServicioAlumnoWCF.dll
+D:\Master\DAD\Sesion2\EjercicioAlumnoWCF\ImplementacionServicioAlumnoWCF\bin\Debug\ImplementacionServicioAlumnoWCF.pdb
+D:\Master\DAD\Sesion2\EjercicioAlumnoWCF\ImplementacionServicioAlumnoWCF\obj\Debug\ImplementacionServicioAlumnoWCF.dll
+D:\Master\DAD\Sesion2\EjercicioAlumnoWCF\ImplementacionServicioAlumnoWCF\obj\Debug\ImplementacionServicioAlumnoWCF.pdb
+C:\Documents and Settings\EPS\Escritorio\EjercicioAlumnoWCF\ImplementacionServicioAlumnoWCF\bin\Debug\ImplementacionServicioAlumnoWCF.dll
+C:\Documents and Settings\EPS\Escritorio\EjercicioAlumnoWCF\ImplementacionServicioAlumnoWCF\bin\Debug\ImplementacionServicioAlumnoWCF.pdb
+C:\Documents and Settings\EPS\Escritorio\EjercicioAlumnoWCF\ImplementacionServicioAlumnoWCF\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\EPS\Escritorio\EjercicioAlumnoWCF\ImplementacionServicioAlumnoWCF\obj\Debug\ImplementacionServicioAlumnoWCF.dll
+C:\Documents and Settings\EPS\Escritorio\EjercicioAlumnoWCF\ImplementacionServicioAlumnoWCF\obj\Debug\ImplementacionServicioAlumnoWCF.pdb

@@ -1,0 +1,8 @@
+D:\Master\DAD\Sesion2\EjercicioAlumnoWCF\ClienteAlumno\bin\Debug\ClienteAlumno.exe.config
+D:\Master\DAD\Sesion2\EjercicioAlumnoWCF\ClienteAlumno\bin\Debug\ClienteAlumno.exe
+D:\Master\DAD\Sesion2\EjercicioAlumnoWCF\ClienteAlumno\bin\Debug\ClienteAlumno.pdb
+D:\Master\DAD\Sesion2\EjercicioAlumnoWCF\ClienteAlumno\obj\x86\Debug\ClienteAlumno.exe
+D:\Master\DAD\Sesion2\EjercicioAlumnoWCF\ClienteAlumno\obj\x86\Debug\ClienteAlumno.pdb
+C:\Documents and Settings\EPS\Escritorio\EjercicioAlumnoWCF\ClienteAlumno\bin\Debug\ClienteAlumno.exe.config
+C:\Documents and Settings\EPS\Escritorio\EjercicioAlumnoWCF\ClienteAlumno\obj\x86\Debug\ClienteAlumno.exe
+C:\Documents and Settings\EPS\Escritorio\EjercicioAlumnoWCF\ClienteAlumno\obj\x86\Debug\ClienteAlumno.pdb
